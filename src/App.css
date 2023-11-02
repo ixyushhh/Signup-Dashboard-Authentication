@@ -1,0 +1,8 @@
+.card-section{
+    overflow-x:scroll;
+}
+
+.card-section::-webkit-scrollbar{
+    display: none;
+  }
+
